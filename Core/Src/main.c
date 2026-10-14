@@ -124,7 +124,7 @@ int main(void)
     if (a==3)
     {
       __HAL_TIM_SET_AUTORELOAD(&htim2, 10000-1);
-    }
+    } 
     if(a==4)
     {
       a=1;
